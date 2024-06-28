@@ -2,6 +2,11 @@
 Este programa insere cotas em polilinhas de forma automática!
 Polilinhas maiores que 0,5m são selecionadas e cotas são adicionadas.
 
+## Descrição do Programa
+
+## Exemplo de uso
+
+## Como executar um programa AutoLISP
 ```lisp 
 (defun c:cotas_automaticas 
   ( / 
